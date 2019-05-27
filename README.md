@@ -1,1 +1,3 @@
 # Monopoly
+
+This game is based on the classic Monopoly board game, where around 2 to 5 players can buy properties, take rents, build houses and hotels etc. First, players have to add number of players and their names, the game starts when the turtles finish building the board. After that, players can use keyborad keys to access various actions of the game like roll the dice, buy a property etc. The game is developed using python and a graphic library called turtle.
